@@ -1,5 +1,4 @@
-# Exam #2: "Generatore di meme"
-## Student: s290215 PATI JACOPO
+# "Meme Generator"
 
 ## React Client Application Routes
 
