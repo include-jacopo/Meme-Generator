@@ -6,8 +6,6 @@ A “meme” is an image on which a funny text is superimposed.
 <br><br> In the homepage the meme wall is displayed, showing the memes created by other users.  A non-logged in user can only see the public ones, while a registered user can see both the public and private meme wall, together with his own creations.  A registered user can also create memes, choosing from a selection of images, superimposing text in the fields provided.  Different colors and fonts are available.  Once you have created a meme, you can decide whether to share it on the public or only in the private wall.  A meme, if it is owned by the user, can be edited. You can also duplicate other users' memes and change the text to create your own meme based on theirs.
 <br><br> The entire application was developed also using npm, so it can be installed just using ```npm install``` in both client and server folder. 
 
-meme
-
 ## Screenshots
 
 <p align="center">
