@@ -11,12 +11,12 @@ This application was developed for the “Web Application I” course held by pr
 ## Screenshots
 
 <p align="center">
-  <img src="./client/screenshot2.png" width="696" height="600"/><br/>
+  <img src="./client/screenshot2.png" width="710" height="600"/><br/>
   <em>The memes wall on the homescreen.</em>
 </p>
 
 <p align="center">
-  <img src="./client/screenshot.png" width="696" height="600"/><br/>
+  <img src="./client/screenshot.png" width="710" height="600"/><br/>
   <em>The pop-up to add a new meme.</em>
 </p>
 
