@@ -90,7 +90,7 @@ This application was developed for the “Web Application I” course held by pr
     "fields_img": 2,
     "field1_img": "top-center",
     "field2_img": "bottom-center",
-    "field3_img": null
+    "field3_img": "null"
 }]
 ```
 
